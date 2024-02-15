@@ -13,6 +13,8 @@ Welcome to the "Image Scraper" repository! This project provides a simple image 
   - `results.html`: HTML template for displaying scraped images.
 
 - **app.py:** Python script containing the image scraping logic.
+- **requirements.txt:** List of Python dependencies required for the project.
+
 
 ## Usage
 
