@@ -14,6 +14,10 @@ Welcome to the "Image Scraper" repository! This project provides a simple image 
 
 - **app.py:** Python script containing the image scraping logic.
 
+## Usage
+
+This image scraper API allows you to fetch images from various sources based on user-defined parameters. You can customize the search criteria and retrieve images easily. Feel free to integrate this API into your projects or expand its functionalities to suit your needs.
+
 ## Getting Started
 
 1. Clone the repository:
